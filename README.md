@@ -1,20 +1,24 @@
 # Public Files Repository
 
-This repository serves as a centralized location for sharing files and APKs that are generated and ready for distribution. It is designed to host various outputs from projects, such as Android application packages and other related files, which are intended to be shared publicly.
+Welcome to the Public Files Repository! This repository is used to store and share various generated files and application packages that are intended for public distribution. 
 
-## Repository Contents
+## Repository Purpose
 
-### MARKOON APP APKs
+This repository serves as a centralized location for hosting files such as APKs and other assets that are ready to be shared with the public. It is designed to provide easy access to these files without exposing the private development repositories.
 
-The `MARKOON APP APKs` directory contains the APK files for the MARKOON app. These APKs are generated as part of the build process and are made available here for public access.
+## Directory Structure
+
+### App APKs
+
+The `APKs` directory contains Android application packages (APKs) for various apps. These files are generated as part of the build process and are made available here for public access.
 
 ### Other Files
 
-In addition to the MARKOON app APKs, this repository may include other files that are ready to be shared. These files are organized into directories based on their purpose and content.
+In addition to APKs, this repository may also include other types of files and assets that are ready for public sharing. These files will be organized into appropriate directories based on their content and purpose.
 
 ## How to Use
 
-To download any file or APK from this repository, simply navigate to the appropriate directory and select the file you wish to download. You can also clone the repository using Git to access all files locally.
+To access the files in this repository, you can either navigate through the GitHub interface or clone the repository to your local machine. Use the following command to clone the repository:
 
 ```bash
 git clone https://github.com/KaramZero/Public-Files.git
